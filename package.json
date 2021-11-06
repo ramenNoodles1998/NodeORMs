@@ -1,0 +1,26 @@
+{
+  "name": "nodeorms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "DAOClasses/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramenNoodles1998/NodeORMs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramenNoodles1998/NodeORMs/issues"
+  },
+  "homepage": "https://github.com/ramenNoodles1998/NodeORMs#readme",
+  "dependencies": {
+    "faker": "^5.5.3",
+    "knex": "^0.95.13",
+    "pg": "^8.7.1",
+    "sequelize": "^6.9.0",
+    "sqlite3": "^5.0.2"
+  }
+}

@@ -84,7 +84,6 @@ const main = async () => {
             .returning('id')
             .into('nonemployees')
 
-
     } catch (error) {
         console.error(error)
     } finally {
